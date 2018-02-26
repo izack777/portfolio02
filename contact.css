@@ -1,0 +1,46 @@
+
+
+.left-contact{
+	margin-top:27px;
+	background-color: white;
+	width:650px;
+	border:1px solid lightgray;
+
+}
+
+
+.input-form{
+	margin:15px 32px 3px 32px;
+	font-family:'Arial';
+	color:gray;
+	font-size:17px;
+}
+
+input{
+	width:100%;
+	margin-top:10px;
+	margin-bottom:15px;
+	padding-bottom:20px;
+
+}
+
+
+textarea{
+	width:100%;
+	padding-bottom:150px;
+	margin-top: 7px;
+}
+
+#button{
+	background-color:#4aaaa5;
+	color:white;
+	width:19%;
+	font-size:16px;
+	padding:10px;
+	border-radius:8px;
+}
+
+#button:hover{
+	background-color: orange;
+
+}

@@ -1,0 +1,56 @@
+
+
+
+.left-portfolio{
+
+	margin-top:27px;
+	background-color: white;
+	width:650px;
+	padding-bottom:100px;
+	border:1px solid lightgray;
+	overflow: auto;
+}
+
+#leftpic{
+	width:280px;
+	height: 200px
+
+}
+
+.projects{
+	width: 275px;
+	text-align: center;
+	float:left;
+	position:relative;
+	margin-left:33px;
+	margin-top: 20px;
+
+}
+
+.projects:nth-child(even){s
+	margin-right:10px;
+	
+}
+
+.projects img{
+	width:100%;
+}
+
+.projects h4{
+	position: absolute;
+	padding:18px;
+	/*z-index: 1;*/
+	background-color:#4aaaa5;
+	color:#fff;
+	text-align: center;
+	bottom:25px;
+	width:88.8%;
+	opacity:0.9;
+}
+
+ .projects h4:hover{
+	background-color:gray;
+}
+
+
+
